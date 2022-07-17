@@ -1,4 +1,5 @@
 const questions = [
+    // questions that will be asked in the console
     {
         type: 'input',
         message: 'What is your project title?',
