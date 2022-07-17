@@ -39,6 +39,7 @@ ${data.description}
 * [License](#license)
 * [Tests](#tests)
 * [Questions](#questions)
+* [Example](#example)
 * [Credits](#credits)
     
 ## Installation 
@@ -60,6 +61,9 @@ ${data.tests}
     
 for any questions in relation to this project please email me directly at: ${data.email}. To view more please visit my GitHub at [${data.github}](https://github.com/${data.github}/).
     
+## Example 
+${data.example}
+
 ## Credits 
 ${data.credits}
   `};

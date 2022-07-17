@@ -47,6 +47,11 @@ const questions = [
     },
     {
         type: 'input',
+        message: 'Do you have an example of how the end result should look?',
+        name: 'example',
+    },
+    {
+        type: 'input',
         message: 'Who would you like to credit for the contribution to your project?',
         name: 'credits',
     },
