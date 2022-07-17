@@ -34,10 +34,10 @@ Run the code to view the output in VS Code to see if the output is as per the de
     
 ## Questions 
     
-for any questions in relation to this project please email me directly at: Chris@newboldcreative.com. To view more please visit my GitHub at [ChrisNewbold](https://github.com/ChrisNewbold/).
+for any questions in relation to this project please email me directly at: chris@newboldcreative.com. To view more please visit my GitHub at [ChrisNewbold](https://github.com/ChrisNewbold/).
     
 ## Example 
-![Screenshot of the application](./Develop/Images/09-NodeJS-ReadMe_README.md.png)
+![Screenshot of the application](https://raw.githubusercontent.com/ChrisNewbold/09-NodeJS-ReadMe/main/Develop/Images/09-NodeJS-ReadMe_README.md.png)
 
 ## Credits 
 [Inquirer Package](https://www.npmjs.com/package/inquirer/v/8.2.4). [Markdown License badges](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba). [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) on how to create a professional README file.
