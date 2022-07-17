@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "name": "static-site",
+  "dependencies": {
+    "inquirer": {
+      "version": "6.5.2",
+      "resolved": "https://registry.npmjs.org/inquirer/-/inquirer-6.5.2.tgz"
+    }
+  }
+}
