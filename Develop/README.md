@@ -37,7 +37,7 @@ Run the code to view the output in VS Code to see if the output is as per the de
 for any questions in relation to this project please email me directly at: chris@newboldcreative.com. To view more please visit my GitHub at [ChrisNewbold](https://github.com/ChrisNewbold/).
     
 ## Example 
-![Screenshot of the application](https://github.com/ChrisNewbold/09-NodeJS-ReadMe/blob/main/Develop/Images/ReadMe%20Generator%20Final.gif) or view the MP4 ![here](https://drive.google.com/file/d/1BML_WlnEOvlZRHHynpIK1l6OYvY1G0Mz/view)
+![Screenshot of the application](https://github.com/ChrisNewbold/09-NodeJS-ReadMe/blob/main/Develop/Images/ReadMe%20Generator%20Final.gif) or view the MP4 [here](https://drive.google.com/file/d/1BML_WlnEOvlZRHHynpIK1l6OYvY1G0Mz/view)
 
 ## Credits 
 [Inquirer Package](https://www.npmjs.com/package/inquirer/v/8.2.4). [Markdown License badges](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba). [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) on how to create a professional README file.
